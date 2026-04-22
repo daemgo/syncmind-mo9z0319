@@ -1,12 +1,108 @@
 {
   "companyName": "楔子科技（杭州）有限公司",
-  "createdAt": "2026-04-22",
-  "updatedAt": "2026-04-22",
-  "industry": null,
-  "scale": null,
-  "description": null,
-  "products": [],
-  "decisionMakers": [],
-  "painPoints": [],
-  "notes": []
+  "shortName": "楔子科技",
+  "summary": "注册于杭州的私营科技企业，主营技术产品与解决方案，规模和阶段尚不明朗。",
+  "industry": "软件/信息技术服务",
+  "subIndustry": "企业级软件/互联网应用",
+  "scale": "小型（人员规模推测50人以下）",
+  "mainBusiness": "技术产品开发与技术服务",
+  "products": [
+    { "name": "企业级SaaS软件", "description": "面向中小企业的标准化云端软件产品" },
+    { "name": "技术解决方案服务", "description": "定制化技术开发与系统集成服务" }
+  ],
+  "targetCustomers": [
+    "杭州及长三角中小企业",
+    "本地传统行业数字化转型企业"
+  ],
+  "businessModel": "产品销售+技术服务（B2B）",
+  "rating": "B",
+  "tags": ["杭州", "初创期", "科技企业", "B2B"],
+  "website": null,
+  "slogan": null,
+  "isListed": false,
+  "stockCode": null,
+  "revenueScale": "千万元级以下（推断）",
+  "registration": {
+    "registeredName": "楔子科技（杭州）有限公司",
+    "registeredCapital": null,
+    "paidCapital": null,
+    "establishedDate": null,
+    "legalRepresentative": null,
+    "businessStatus": null,
+    "shareholders": [],
+    "branchCount": 0,
+    "interpretation": "尚无公开工商信息，该企业可能为小规模私营企业，注册资本与实缴情况不明。",
+    "organizationType": "私营有限责任公司",
+    "keyFindings": [
+      "公司名称含'有限公司'，为独立法人主体的私营企业，决策链相对扁平。",
+      "注册地杭州，靠近阿里系生态圈，人才供给和技术氛围较好。",
+      "无公开分支机构信息，判断为单一主体运营，尚未开展规模化扩张。"
+    ]
+  },
+  "organization": {
+    "type": "创业型小团队",
+    "decisionChain": "创始人/法人 → 核心团队（3-5人）→ 执行层，决策快但资源有限。",
+    "keyPersons": [{ "name": "未知", "title": "创始人/法定代表人" }],
+    "salesStrategy": "聚焦本地圈子经济，以创始人/合伙人强关系驱动首批客户；优先通过技术博客、开源社区或钉钉/微信生态获取种子用户，避免大客户长周期BD。"
+  },
+  "timing": {
+    "phase": "基础建设阶段（推断）",
+    "analysisBasis": [
+      "企业名称已含'科技'但公开信息极少，处于产品MVP或早期商业化验证期。",
+      "杭州科技企业密集，该阶段企业通常在完成种子轮或自有资金投入后寻求首轮营收。",
+      "无招聘信号和新闻报道，说明规模极小或尚未正式启动商业运营。"
+    ],
+    "entryStrategy": "以轻量级工具类产品切入，提供免费/低价试用，快速建立首批付费客户；配合企业微信/钉钉生态做集成，降低使用门槛。",
+    "urgency": "中等——需在未来6个月内完成产品市场验证，否则资金压力将显现。"
+  },
+  "hiring": {
+    "keySignals": []
+  },
+  "competition": {
+    "industryRank": null,
+    "marketShare": null,
+    "mainCompetitors": [
+      "同区域中小SaaS创业公司",
+      "阿里云/钉钉生态内集成商"
+    ],
+    "knownClients": []
+  },
+  "riskAndPolicy": {
+    "legal": {
+      "lawsuitCount": null,
+      "executedPerson": false,
+      "dishonestPerson": false,
+      "businessAnomalies": [],
+      "equityFreeze": false
+    },
+    "policy": {
+      "isSpecializedSME": false,
+      "smeLevel": "",
+      "isHighTech": false,
+      "digitalTransformation": false,
+      "esgGreen": false
+    }
+  },
+  "painPoints": [
+    { "area": "客户管理", "description": "早期客户依赖创始人私人关系，缺乏系统化CRM，客户流失风险高。", "severity": "高" },
+    { "area": "项目管理", "description": "产品研发与客户交付并行推进，进度不透明，团队协作混乱。", "severity": "高" },
+    { "area": "知识管理", "description": "技术经验集中在创始人或早期员工脑中，人员变动风险大，知识无法沉淀。", "severity": "中" },
+    { "area": "回款管理", "description": "定制化项目账期不明确，缺乏合同和应收管理规范，现金流压力突出。", "severity": "高" },
+    { "area": "产品管理", "description": "需求来自多个客户，优先级不明，迭代节奏混乱，产品化程度低。", "severity": "中" }
+  ],
+  "opportunities": [
+    { "area": "轻量化SaaS工具", "description": "基于钉钉/企业微信生态提供轻量级协作工具，契合杭州中小企业数字化需求，标准化后可快速规模化。", "likelihood": "中" },
+    { "area": "技术外包服务", "description": "杭州传统行业数字化转型需求旺盛，提供标准化技术外包服务可快速产生现金流，支撑产品研发。", "likelihood": "高" },
+    { "area": "行业解决方案", "description": "聚焦杭州1-2个垂直行业（如电商、制造业），打造行业专属解决方案，建立差异化壁垒。", "likelihood": "中" }
+  ],
+  "analysisPath": "B",
+  "confidence": 0.3,
+  "metadata": {
+    "createdAt": "2026-04-22",
+    "updatedAt": "2026-04-22",
+    "createdBy": "AI",
+    "version": "1.0",
+    "sources": [],
+    "confidence": 0.3
+  }
 }
